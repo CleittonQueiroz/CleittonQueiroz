@@ -1,20 +1,20 @@
 # Cleiton Marques Queiroz
-## Desenvolvedor Java | Backend | Full Stack
+## Desenvolvedor em Formação | Java | Full Stack
 
 ---
 
-### Perfil Profissional
-Bacharel em Sistemas de Informação com trajetória consolidada em gestão de processos e logística, atualmente em transição para o desenvolvimento de software. Combino mais de 8 anos de experiência na Força Aérea Brasileira com sólida base acadêmica em TI. Focado na construção de APIs robustas, arquitetura de sistemas e integração de dados, aplicando uma metodologia de trabalho baseada em disciplina, organização e eficiência operacional.
+### Sobre
+Bacharel em Sistemas de Informação com trajetória consolidada em gestão de processos e logística. Atualmente, estou em transição de carreira para o desenvolvimento de software, dedicando-me ao estudo e prática de tecnologias Java e ecossistema Spring. Minha bagagem profissional de 8 anos na Força Aérea Brasileira me trouxe disciplina, visão analítica e facilidade na resolução de problemas, competências que aplico agora no aprendizado de novas tecnologias.
 
 ### Formação Acadêmica
 * **Pós-Graduação:** Desenvolvimento Full Stack e Cloud Computing (Em andamento).
 * **Pós-Graduação:** Segurança da Informação.
 * **Bacharelado:** Sistemas de Informação (Impacta Tecnologia).
 
-### Competências Técnicas
-* **Back-end:** Java 17, Spring Boot, Spring Data JPA, Hibernate, Maven.
+### Tecnologias em Estudo
+* **Back-end:** Java 17, Spring Boot, Spring Data JPA, Hibernate.
 * **Desenvolvimento:** APIs REST.
-* **Full Stack:** Em formação (Pós-Graduação em curso).
+* **Full Stack:** Conhecimentos em desenvolvimento web (via pós-graduação).
 * **Banco de Dados:** MySQL e modelagem de dados.
 * **Ferramentas:** Git, GitHub, Postman.
 
