@@ -1,25 +1,60 @@
-# Cleiton Marques Queiroz
-## Desenvolvedor | Java | Full Stack
+## Desenvolvedor Backend Java | Spring Boot | APIs REST
 
 ---
 
-### Sobre
-Bacharel em Sistemas de Informação com trajetória consolidada em gestão de processos e logística. Atualmente, estou em transição de carreira para o desenvolvimento de software, dedicando-me ao estudo e prática de tecnologias Java e ecossistema Spring. Minha bagagem profissional de 8 anos na Força Aérea Brasileira me trouxe disciplina, visão analítica e facilidade na resolução de problemas, competências que aplico agora no aprendizado de novas tecnologias.
+## Sobre
 
-### Formação Acadêmica
-* **Pós-Graduação:** Desenvolvimento Full Stack e Cloud Computing (Em andamento).
-* **Pós-Graduação:** Segurança da Informação.
-* **Bacharelado:** Sistemas de Informação (Impacta Tecnologia).
+Desenvolvedor Java com experiência prévia em logística, organização de processos e análise de dados na Força Aérea Brasileira.
 
-### Tecnologias em Estudo
-* **Back-end:** Java 21, Spring Boot, Spring Data JPA, Hibernate.
-* **Desenvolvimento:** APIs REST.
-* **Full Stack:** Conhecimentos em desenvolvimento web (via pós-graduação).
-* **Banco de Dados:** MySQL e modelagem de dados.
-* **Ferramentas:** Git, GitHub, Postman.
+Atualmente focado no desenvolvimento backend com Java e Spring Boot, criando APIs REST e aplicando boas práticas de código.
 
-### Capacitação Contínua
-* Curso Udemy: Java COMPLETO Programação Orientada a Objetos + Projetos (Em andamento).
+Minha trajetória profissional contribuiu para o desenvolvimento de disciplina, organização e capacidade de lidar com cenários dinâmicos — habilidades que aplico no desenvolvimento de software.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/cleitonqueiroz) | [Email](mailto:cleiton.marques2012@gmail.com)
+
+## Tecnologias
+
+**Back-end**
+- Java (Streams, Collections)
+- Spring Boot
+- Spring Data JPA / Hibernate
+- APIs REST
+
+**Banco de Dados**
+- H2
+- MySQL
+
+**Ferramentas**
+- Git e GitHub
+- Postman
+
+**Front-end**
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Formação e Estudos
+
+- Bacharel em Sistemas de Informação — Faculdade Impacta  
+- Pós-graduação em Desenvolvimento Full Stack e Cloud Computing (em andamento)  
+- Pós-graduação em Segurança da Informação  
+- Curso: Java COMPLETO Programação Orientada a Objetos + Projetos — Udemy (em andamento)
+
+**Estudos atuais incluem:**
+- Desenvolvimento backend com Java e Spring Boot
+- Fundamentos de front-end (HTML, CSS, JavaScript)
+
+---
+
+## Objetivo
+
+Atuar como desenvolvedor backend Java, contribuindo com soluções eficientes e evoluindo continuamente na área de tecnologia.
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/cleitonqueiroz/
+- Email: cleiton.marques2012@gmail.com
