@@ -1,5 +1,5 @@
 # Cleiton Marques Queiroz
-## Desenvolvedor em Formação | Java | Full Stack
+## Desenvolvedor | Java | Full Stack
 
 ---
 
@@ -12,14 +12,14 @@ Bacharel em Sistemas de Informação com trajetória consolidada em gestão de p
 * **Bacharelado:** Sistemas de Informação (Impacta Tecnologia).
 
 ### Tecnologias em Estudo
-* **Back-end:** Java 17, Spring Boot, Spring Data JPA, Hibernate.
+* **Back-end:** Java 21, Spring Boot, Spring Data JPA, Hibernate.
 * **Desenvolvimento:** APIs REST.
 * **Full Stack:** Conhecimentos em desenvolvimento web (via pós-graduação).
 * **Banco de Dados:** MySQL e modelagem de dados.
 * **Ferramentas:** Git, GitHub, Postman.
 
 ### Capacitação Contínua
-* Curso: Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy).
+* Curso Udemy: Java COMPLETO Programação Orientada a Objetos + Projetos (Em andamento).
 
 ---
 [LinkedIn](https://www.linkedin.com/in/cleitonqueiroz) | [Email](mailto:cleiton.marques2012@gmail.com)
