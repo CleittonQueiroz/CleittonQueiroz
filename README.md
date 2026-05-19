@@ -1,56 +1,84 @@
-## Desenvolvedor Backend Java | Spring Boot | APIs REST
+# Cleiton Marques Queiroz
 
----
+## Desenvolvedor Java | Sistemas | SQL | Spring Boot | APIs REST
 
-## Sobre
+Profissional formado em Sistemas de Informação, com experiência em sistemas, processos administrativos, análise de dados, suporte técnico e tecnologia aplicada a negócios.
 
-Desenvolvedor Java com experiência prévia em logística, organização de processos e análise de dados na Força Aérea Brasileira.
-
-Atualmente focado no desenvolvimento backend com Java e Spring Boot, criando APIs REST e aplicando boas práticas de código.
-
-Minha trajetória profissional contribuiu para o desenvolvimento de disciplina, organização e capacidade de lidar com cenários dinâmicos — habilidades que aplico no desenvolvimento de software.
+Atualmente focado no desenvolvimento backend com Java, Spring Boot, APIs REST, SQL e banco de dados, desenvolvendo projetos práticos voltados à evolução profissional e construção de portfólio.
 
 ---
 
 ## Tecnologias
 
-**Back-end**
-- Java (Streams, Collections)
+### Back-end
+- Java
 - Spring Boot
-- Spring Data JPA / Hibernate
+- Spring Data JPA
+- Hibernate
 - APIs REST
+- Maven
 
-**Banco de Dados**
-- H2
+### Banco de Dados
+- SQL
+- PostgreSQL
 - MySQL
+- H2
 
-**Ferramentas**
-- Git e GitHub
+### Ferramentas
+- Git
+- GitHub
 - Postman
+- IntelliJ IDEA
 
-**Front-end**
+### Front-end
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## Formação e Estudos
+## Projetos em destaque
 
-- Bacharel em Sistemas de Informação — Faculdade Impacta  
-- Pós-graduação em Desenvolvimento Full Stack e Cloud Computing (em andamento)  
-- Pós-graduação em Segurança da Informação  
-- Curso: Java COMPLETO Programação Orientada a Objetos + Projetos — Udemy (em andamento)
+### desafio-duxus
+API REST em Spring Boot para gerenciamento de times, integrantes e composições, utilizando regras de negócio, consultas por período e organização em camadas.
 
-**Estudos atuais incluem:**
-- Desenvolvimento backend com Java e Spring Boot
-- Fundamentos de front-end (HTML, CSS, JavaScript)
+**Tecnologias:** Java, Spring Boot, JPA/Hibernate, Maven, API REST, banco de dados e Postman.
+
+---
+
+### clientes-api
+API REST para cadastro e gerenciamento de clientes, utilizando operações CRUD, integração com banco de dados e testes via Postman.
+
+**Tecnologias:** Java, Spring Boot, SQL, JPA/Hibernate e Postman.
+
+---
+
+### orders-api
+Projeto backend desenvolvido com Spring Boot para estudos de APIs REST, organização de camadas e desenvolvimento backend.
+
+**Tecnologias:** Java, Spring Boot e API REST.
+
+---
+
+### portfolio-viagens-brasil
+Portfólio visual desenvolvido com HTML e CSS, voltado à apresentação de viagens, trilhas e fotografia.
+
+---
+
+## Formação
+
+- Bacharel em Sistemas de Informação — Faculdade Impacta
+- Pós-graduação em Segurança da Informação
+- Pós-graduação em Full Stack e Cloud Computing — em andamento
+- Estudos em Java, Spring Boot, SQL e APIs REST
+- Gestão Empresarial com ERP
+- Microsoft Excel Intermediário
 
 ---
 
 ## Objetivo
 
-Atuar como desenvolvedor backend Java, contribuindo com soluções eficientes e evoluindo continuamente na área de tecnologia.
+Atuar como Desenvolvedor Java Jr, Analista de Sistemas Jr, Suporte/Implantação de Sistemas ou áreas relacionadas a tecnologia, processos e dados.
 
 ---
 
