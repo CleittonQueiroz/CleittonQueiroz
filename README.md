@@ -4,7 +4,7 @@
 
 Profissional formado em Sistemas de Informação, com experiência em sistemas, processos administrativos, análise de dados, suporte técnico e tecnologia aplicada a negócios.
 
-Atualmente focado no desenvolvimento backend com Java, Spring Boot, APIs REST, SQL e banco de dados, desenvolvendo projetos práticos voltados à evolução profissional e construção de portfólio.
+Atualmente desenvolvendo projetos backend com Java, Spring Boot, APIs REST, SQL e banco de dados, com foco em evolução técnica e construção de portfólio.
 
 ---
 
